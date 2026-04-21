@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#fff7ed" />
+  <rect x="50" y="80" width="700" height="500" fill="#fee2b3" rx="12" />
+  <text x="50%" y="70%" fill="#92400e" font-size="36" font-family="Arial" text-anchor="middle">Casual Jacket</text>
+</svg>
