@@ -1,7 +1,7 @@
 import React, { useContext, useState, useRef, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { CartContext } from "../context/CartContext";
-import { WishlistContext } from "../context/Wishlistcontext";
+import { WishlistContext } from "../context/WishlistContext";
 
 // ─── NOTE ──────────────────────────────────────────────────────────────────────
 // Requires in index.html <head>:
