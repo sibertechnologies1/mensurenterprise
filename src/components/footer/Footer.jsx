@@ -15,7 +15,7 @@ const Footer = () => {
         {/* Brand */}
         <div>
           <h1 className="text-2xl font-bold text-white">
-            Mensur<span className="text-green-500">Enterprises</span>
+            Mansur<span className="text-green-500">Enterprises</span>
           </h1>
           <p className="mt-3 text-sm leading-relaxed">
             Your trusted destination for quality fashion, accessories, and more.
@@ -24,7 +24,7 @@ const Footer = () => {
           {/* Contact Info */}
           <div className="mt-4 space-y-2 text-sm">
             <div className="flex items-center gap-2">
-              <FaMapMarkerAlt /> Accra, Ghana
+              <FaMapMarkerAlt /> Mumbai, India
             </div>
             <div className="flex items-center gap-2">
               <FaPhone /> +233 50 000 0000
@@ -97,7 +97,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-700 text-center text-sm py-4">
-        © {new Date().getFullYear()} Mensur Enterprises. All rights reserved.
+        © {new Date().getFullYear()} Mansur Enterprises. All rights reserved.
       </div>
     </footer>
   );

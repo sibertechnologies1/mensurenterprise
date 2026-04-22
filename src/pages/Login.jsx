@@ -146,7 +146,7 @@ export default function Login() {
         {/* Logo + tagline */}
         <div className="text-center mb-8">
           <Link to="/" className="inline-flex items-baseline gap-0">
-            <span className="text-2xl font-bold text-gray-900 tracking-tight">Mensur</span>
+            <span className="text-2xl font-bold text-gray-900 tracking-tight">Mansur</span>
             <span className="text-2xl font-bold text-green-600 tracking-tight">Enterprises</span>
           </Link>
           <p className="text-sm text-gray-500 mt-1">Sign in to your account to continue</p>
